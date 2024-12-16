@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 
-body {
-    background-color: #333; /* Dark gray */
-    color: white; /* Optional: Makes text readable */
-    margin: 0; /* Optional: Removes default margin */
-    font-family: Arial, sans-serif; /* Optional: Sets a clean font */
+ body {
+    background-color: #333;
+    color: white; 
+    margin: 0; 
+    font-family: Arial, sans-serif; 
   }
-  
+
 
 /* :root {
     font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
